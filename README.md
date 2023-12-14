@@ -43,4 +43,4 @@ The installation immerses the audience in a digital representation of cruising, 
 
   Contact
 
-For more information, visit [www.leandro-niero.com](http://www.leandro-niero.com/pages/cruising-dystopia.html).
+For more information, visit [www.leandro-niero.com](http://www.leandro-niero.com.html).
