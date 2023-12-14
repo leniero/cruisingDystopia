@@ -12,8 +12,8 @@ The project aims to recreate the secretive essence of cruising, portraying the a
 
   Technical Details
 
-- Programming Languages:** C++, leveraging openFrameworks for creative coding.
-- Software Tools:** Final Cut for video editing, Ableton for sound design.
+- Programming Languages: C++, leveraging openFrameworks for creative coding.
+- Software Tools: Final Cut for video editing, Ableton for sound design.
 - Core Files:
   - `main.cpp`: Initializes the openFrameworks environment and sets up the application window.
   - `ofApp.cpp` and `ofApp.h`: Contain the main logic of the application, including 3D mesh generation, camera movement, lighting effects, and interaction logic.
